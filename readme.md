@@ -13,63 +13,62 @@ A szövegeket első szám első személyben írjátok meg, mintha naplót vezetn
 1. Egyházi személy voltam a középkorban
 1. Nemesúr voltam a középkorban
 
-
 ## Kötelező tartalmi elemek 
 
 A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, egyes szám első személyben! Forrásként használd a tankönyvedet!
 
-### 1. Jellemző öltözködés
+### 1. Jellemző öltözködés(Andor)
 
 - Mit viselek?
 - Miből készül a ruhám?
 - Mit árul el rólam a viseletem?
 
-###  2. Környezet
+###  2. Környezet(Andor)
 
 - Milyen házban élek?
 - Van udvarom? Földem? Műhelyem? Váram?
 - Hogyan néz ki a település (falu, város, birtok, kolostor)?
 
-### 3. Életmód
+### 3. Életmód(Jamal)
 
 - Hogyan telik egy hétköznapom?
 - Van-e különbség a hétköznap és az ünnep között?
 - Mivel töltöm a szabadidőmet?
 
-### 4. Feladataim
+### 4. Feladataim(Jamal)
 
 - Milyen munkát végzek?
 - Kinek tartozom engedelmességgel?
 - Ki függ tőlem?
 
-### 5. Ünnepek
+### 5. Ünnepek(Dorián67)
 
 - Milyen ünnepekre készülünk?
 - Hogyan zajlik egy ünnep?
 - Miért fontos számunkra?
 
-### 6. Kötelezettségek és félelmek
+### 6. Kötelezettségek és félelmek(Dorián67)
 
 - Milyen adókat, szolgáltatásokat kell teljesítenem?
 - Mitől félek? (háború, éhínség, járvány, büntetés stb.)
 
-### 7. Viselkedés és emberi kapcsolatok
+### 7. Viselkedés és emberi kapcsolatok(Andor)
 
 - Hogyan viselkedünk egymással?
 - Milyen alá- és fölérendeltségi viszonyok vannak?
 - Mit jelent a becsület, hűség, vallás szerepe?
 
-### 8. Szabályok és hagyományok
+### 8. Szabályok és hagyományok(Jamal)
 
 - Milyen írott vagy íratlan szabályok szerint élünk?
 - Milyen szokásaink vannak?
 
-## Fogalomtár
+## Fogalomtár(Andor)
 
 Legalább 6–8 fogalom rövid (1–2 mondatos) magyarázattal.
 
 
-## Idővonal
+## Idővonal(Dorián67)
 
 Készítsetek idővonalat 4–8 fontos eseménnyel a középkorból.
 
