@@ -1,9 +1,9 @@
 Jellemző öltözködés: 
 Mit viselek:
-Hosszú ing vagy gatya, ami térdig ér, hozzá szűk nadrágot vagy bocskor.Télen birkabőr suba vagy vastag posztóköpönyeg véd a hidegtől. Fejemen nemezsüveg vagy kalap.Télen birkabőr suba vagy vastag posztóköpönyeg véd a hidegtől. Fejemen nemezsüveg vagy kalap.A feleségem hosszú inget, szoknyát, kötényt és fejkendőt hord. Semmi dísz, semmi szín – praktikus kell legyen, mert egész nap dolgozom benne.
+Hosszú ing vagy gatya, ami térdig ér, hozzá szűk nadrágot vagy bocskort. Télen birkabőr suba vagy vastag posztóköpönyeg véd a hidegtől. Fejemen nemezsüveg vagy kalap. Télen birkabőr suba vagy vastag posztóköpönyeg véd a hidegtől. Fejemen nemezsüveg vagy kalap. A feleségem hosszú inget, szoknyát, kötényt és fejkendőt hord. Semmi dísz, semmi szín – praktikusnak kell lennie, mert egész nap dolgozom benne.
 Miből készül a ruhám?
 Otthon font lenből vagy kenderből szőtt durva vászonból, gyapjúból vagy birkabőrből. A faluban szőnek-fonnak, de festék drága, így fakó barna, egyszínű minden.
- Mit árul el rólam a viseletem?
+Mit árul el rólam a viseletem?
 Hogy én vagyok a legalacsonyabb réteg: nincs selyem, színes ruha, mint a nemeseknél vagy városi polgároknál. Ruhám mutatja a kemény munkát, a földhöz kötött életet – kopott, foltozott, de strapabíró. Aki lát, azonnal tudja: jobbágy vagyok, nem több.
 
 Környezet:
@@ -12,16 +12,16 @@ Kis, egyszobásvályog- vagy sárfalú kunyhóban, földpadlóval. A tető nádb
 Van udvarom? Földem? Műhelyem? Váram?
 Van kis udvarom tyúkokkal, disznóval, esetleg egy tehénnel. Saját telkem van (házhely + veteményeskert + kb. 1 hold szántóföld), de a nagy föld az úr majorsága – nekem csak annyi jut, amennyit megművelhetek. Nincs műhelyem, csak szerszámok (kasza, eke, villa). Vár? Az az úrnak van, nekünk kunyhó.
 Hogyan néz ki a településünk.
-Szétszórt falu, házak össevissza vannak építve. gyakran patak vagy erdő mellett.Középen a templom vagy kápolna. Az utcákon állatok szabadon futkároztak.
+Szétszórt falu, házak össevissza vannak építve. gyakran patak vagy erdő mellett.Középen a templom vagy kápolna. Az utcákon állatok szabadon futkároznak.
 
 
 Viselkedés és emberi kapcsolatok:
 Hogyan viselkedünk egymással?
-Tisztelettel és óvatosan – a faluban összetartunk, mert együtt élünk-halunk, de van pletyka, irigység is, ha valaki többet termel. Családban szigorú a rend: az apa parancsol, anya vezeti a háztartást, gyerekek engedelmeskednek.
+Tisztelettel és óvatosan – a faluban összetartunk, mert együtt élünk-halunk, de van pletyka, irigység is, ha valaki többet termel. Családban szigorú a rend: az apa parancsol, anya vezeti a háztartást, a gyerekek engedelmeskednek.
 Milyen alá- és fölérendeltségi viszonyok vannak?
 Nagyon erős hierarchia: a földesúr felettünk áll, neki engedelmeskedünk vakon. A papnak is tisztelet jár, mert Isten nevében beszél. Otthon az apa a család feje, feleség és gyerekek alatta. A faluban az idősebbeknek jár a tisztelet.
 Mit jelent a becsület, hűség, vallás szerepe?
-Becsület = hogy betartom a szavam, keményen dolgozom, nem lopok – ha elveszítem, kiközösítenek a faluból. Hűség = az úrnak való engedelmesség, cserébe véd minket. Vallás = mindenünk alapja: naponta imádkozunk, vasárnap templomba megyünk, gyónunk – Isten félése és reménye tart életben minket a nehéz időkben.
+Becsület = hogy betartom a szavam, keményen dolgozom, nem lopok – ha elveszítem, kiközösítenek a faluból. Hűség = az úrnak való engedelmesség, cserébe véd minket. Vallás = mindenünk alapja: naponta imádkozunk, vasárnap templomba megyünk, gyónunk – Isten félése és a remény tart életben minket a nehéz időkben.
 
 Fogalomtár:
 
@@ -32,5 +32,5 @@ Kilenced: A termés kilencedrésze (1/9-ed), amit a földesúrnak adunk.
 Cenzus: Éves fix járadék (pénzben vagy természetben, pl. tyúk, tojás), amit a jobbágy fizet a földesúrnak.
 Majorság: A földesúr saját nagy gazdasága, ahol a jobbágyok robotolnak.
 Úrbér: A földesúr és jobbágy viszonyát szabályozó írott vagy szokás szerinti szerződés (pl. robot mértéke).
-Zsellér: Föld nélküli vagy nagyon kevés földű jobbágy, aki napszámban dolgozik másoknál.
+Zsellér: Föld nélküli vagy nagyon kevés földdel rendelkező jobbágy, aki napszámban dolgozik másoknál.
  
