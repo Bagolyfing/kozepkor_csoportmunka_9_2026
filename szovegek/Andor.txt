@@ -27,7 +27,7 @@ Fogalomtár:
 
 Jobbágy: Személyesen nem teljesen szabad paraszt, aki a földesúr birtokán él, robotot végez és adót fizet cserébe földhasználatért.
 Robot: Kötelező ingyenmunka a földesúr majorságán (heti 1-2 nap + extra aratáskor vagy más időszakban).
-Tized: A termés tizedrésze (1/10-ed), amit az egyháznak kell leadni (dézsmaként is nevezik).
+Tized: A termés tizedrésze (1/10-ed), amit az egyháznak kell leadni.
 Kilenced: A termés kilencedrésze (1/9-ed), amit a földesúrnak adunk.
 Cenzus: Éves fix járadék (pénzben vagy természetben, pl. tyúk, tojás), amit a jobbágy fizet a földesúrnak.
 Majorság: A földesúr saját nagy gazdasága, ahol a jobbágyok robotolnak.
