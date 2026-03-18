@@ -1,7 +1,15 @@
+* {box-sizing: border-box;
+}
+
 main {
-    background-color: sandybrown;
+    background-color: #fdc99b;
     margin: auto;
     text-align: center;
+    width: 80%;
+    max-width: 800px;
+    border: 15px solid rgb(236, 199, 174);
+    padding: 20px;
+    border-radius: 15px;
 }
 
 header {
@@ -11,9 +19,30 @@ header {
 }
 
 a {
-    color: bisque;
+    color: rgb(168, 151, 129);
     text-decoration: none;
+    border: 5px solid wheat;
+    padding: 2px;
+    
 }
 
-nav {
+article {
+    width: 500px;
+    border: 10px solid rgb(255, 215, 185);
+    padding: 40px;
+    margin: auto;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+}
+
+body {
+    background-color:rgb(243, 185, 162);
+    padding: 0;
+    margin:0;
 }
